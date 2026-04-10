@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Manhunt Pulse Tracker",
+    "description": "Dream-style Manhunt addon for MCPE. Hunters receive periodic pulse updates (direction + sound) on the speedrunner's location. Assign roles with /tag @p add speedrunner or /tag @p add hunter, then run /function setup.",
+    "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "11223344-5566-7788-99aa-bbccddeeff00",
+      "version": [1, 0, 0]
+    }
+  ]
+}
