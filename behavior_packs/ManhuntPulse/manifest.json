@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Manhunt Pulse Tracker",
+    "description": "Dream-style Manhunt pulse tracker for Bedrock (MCPE). Includes classic pulse (v1) and precise integer XYZ scoreboard pulse (v2).",
+    "uuid": "3f0a0f6a-5e65-4b4d-95e8-5b943a3f6141",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b5d6d7cd-2f0b-4b20-a3da-2d9d5b4ef7f9",
+      "version": [1, 1, 0]
+    }
+  ]
+}
